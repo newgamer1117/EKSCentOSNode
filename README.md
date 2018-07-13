@@ -56,3 +56,10 @@ cluster. Your nodes cannot register properly without this user data.
 ## License Summary
 
 This sample code is made available under a modified MIT license. See the LICENSE file.
+
+
+## Clone by https://github.com/awslabs/amazon-eks-ami
+
+Customize Worker Node with CentOS base
+
+Don't forget to change variable profile as your AWS credential
